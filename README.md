@@ -2,6 +2,8 @@
 A Netflix clone created using React.js, Google Firebase, & TMBD API. 
 
 
+![Alt text](/netflix.JPG?raw=true "Netflix")
+
 ## Available Scripts
 
 In the project directory, you can run:
